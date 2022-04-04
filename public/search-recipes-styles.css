@@ -132,6 +132,7 @@
   background-color: #ECECEC;
   border-radius: 18px;
   margin-top: 15px;
+
 }
 
 .recipe-picture-container {
@@ -148,6 +149,11 @@
 
 .recipe-description h3 {
   margin-top: 25px;
+}
+
+.recipe-description h3 a {
+  text-decoration: none;
+  color: black;
 }
 
 .recipe-description p {
